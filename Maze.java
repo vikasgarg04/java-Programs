@@ -1,3 +1,5 @@
+//find path in maze
+
 import java.util.*;
 import java.lang.*;
 
