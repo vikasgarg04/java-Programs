@@ -5,9 +5,9 @@ public class Path
 	public int row;
 	public int col;
 
-	public Path(int rw, int co)
+	public Path(int ro, int co)
 	{
-		this.row = rw;
+		this.row = ro;
 		this.col = co;
 	}
 
