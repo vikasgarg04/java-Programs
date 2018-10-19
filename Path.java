@@ -5,10 +5,10 @@ public class Path
 	public int row;
 	public int col;
 
-	public Path(int r, int c)
+	public Path(int rw, int co)
 	{
-		this.row = r;
-		this.col = c;
+		this.row = rw;
+		this.col = co;
 	}
 
 	public String toString()
