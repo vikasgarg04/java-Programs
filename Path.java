@@ -1,4 +1,5 @@
 // path class to store the next move in Maze
+//class used in Maze.java
 public class Path
 {
 	public int row;
