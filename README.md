@@ -1,3 +1,3 @@
 # java-Programs
 
-1. Maze problem
+1. Maze problem with example
