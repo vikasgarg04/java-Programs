@@ -1,3 +1,3 @@
 # java-Programs
 
-1.
+1. Maze
