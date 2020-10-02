@@ -133,7 +133,7 @@ public class Maze
 			{
 				System.out.print(this.arr[i][j] + " ");
 			}
-			System.out.print("\n");
+			System.out.println();
 		}
 	}
 }
